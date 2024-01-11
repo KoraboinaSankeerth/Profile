@@ -1,6 +1,6 @@
-##Hi
-## Hello👋 I'm Vamshi🧑🏻‍💻
 
+## Hello👋 I'm Vamshi🧑🏻‍💻
+##Learning
 Hi All
 I am a full stack developer from India📍 I am a Computer Science Student at Indian Institute of Technology, Roorkee.
 Hello
